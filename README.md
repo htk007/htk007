@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hasan
+Hallo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mein Name ist Hasan
 =============================================================================================================================
 
-Senior Software Engineer & Engineering Manager
+Leitender Softwareentwickler und Engineering-Manager
 --------------------------------
 
-* 🌍  I'm based in Ankara
-* ✉️  You can contact me at [hasankaya921@gmail.com](mailto:hasankaya921@gmail.com)
+* 🌍  Ich bin in der Türkei ansässig
+* ✉️ Sie erreichen mich unter [hasankaya921@gmail.com](mailto:hasankaya921@gmail.com)
 
-### Skills
+### Fähigkeiten
 
 
 <p align="left">
@@ -33,6 +33,6 @@ Senior Software Engineer & Engineering Manager
 </p>
 
 
-### Socials
+### Soziale Netzwerke
 
 <p align="left"> <a href="https://www.github.com/htk007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hasankaya-ln2018/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
